@@ -11,5 +11,5 @@ You can fork the tesser_ocr repository to create your own repo
 Type the name of the repository in heroku and connect to it 
 add this heroku buildpack in the settings menu https://github.com/heroku/heroku-buildpack-apt
 also add the python builkpack in add buildpack option
-set config vars to KEY :- TESDATA_PREFIX and VALUE:- ./.apt/usr/share/tesseract-ocr/4.00/tessdata
+set config vars to KEY :- TESDATA_PREFIX and VALUE:- ./apt/usr/share/tesseract-ocr/4.00/tessdata
 Build and deploy the app and open app
