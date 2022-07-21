@@ -1,0 +1,4 @@
+streamlit
+numpy
+pytesseract
+oprncv-contrib.python-headless==4.4.0.46
